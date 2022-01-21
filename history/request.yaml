@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE07SHSM-MFD35-04-ADCPTC000-telemetered-adcp_engineering
-last_request: '2022-01-01T01:24:10.506156Z'
+last_request: '2022-01-21T17:39:05.338706Z'
 response: https://raw.githubusercontent.com/ooi-data/CE07SHSM-MFD35-04-ADCPTC000-telemetered-adcp_engineering/main/history/response.json
 status: discontinued
